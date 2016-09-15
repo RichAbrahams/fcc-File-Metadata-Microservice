@@ -1,4 +1,4 @@
-Freecamps File Metadata Microservice project
+Freecodecamps File Metadata Microservice project
 
 Running app can be found at:
 
